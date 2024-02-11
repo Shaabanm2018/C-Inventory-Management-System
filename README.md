@@ -16,17 +16,23 @@ Overwrite Item ([O]): Updates the information of an existing item.
 ![overwrite](https://github.com/Shaabanm2018/C-Inventory-Management-System/assets/76607364/fe563dac-08aa-4e7f-9452-1f966ac6399e)
 
 Load Inventory ([L]): Loads the inventory from a file.
+
 Save Inventory ([S]): Saves the current inventory to a file.
+
 ![save_and_load](https://github.com/Shaabanm2018/C-Inventory-Management-System/assets/76607364/98f36c88-d7bd-4ad5-b5ea-91ff48189ddb)
 
 
 Copy to Clipboard ([C]): Copies selected items to the clipboard.
+
 Paste ([P]): Insert items from the clipboard into the inventory.
+
 ![copy_and_paste](https://github.com/Shaabanm2018/C-Inventory-Management-System/assets/76607364/85e451df-5f58-4df9-b3bb-8989f8ab1ddb)
 
 
 Cut ([X]): Removes selected items from the inventory and copies them to the clipboard.
+
 Show Clipboard ([B]): Displays the content of the clipboard.
+
 ![cut_and_show](https://github.com/Shaabanm2018/C-Inventory-Management-System/assets/76607364/41b8b58c-c30d-489b-97ab-83ef32179a5e)
 
 
